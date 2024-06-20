@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManoharSamuel24
 - 👀 I’m interested in Java programming language 
-- 🌱 I’m currently learning Bachelor of Computer Science Engineering 
+- 🌱 I’m currently learning B.E. Computer Science Engineering 
 - 💞️ I’m looking to collaborate on Java Projects 
 - 📫 Reach me on manoharsamuelt@gmail.com
